@@ -1,5 +1,5 @@
 # AOPE (Automated Order Picking Environment)
-Simplified simulation environment of automated order picking operation for MARL (Multi-Agent Reinforcement Learning) introduced in this paper (accepted in [IROS2023](https://ieee-iros.org/)).
+Simplified simulation environment of automated order picking operation for MARL (Multi-Agent Reinforcement Learning) introduced in "[The Impact of Overall Optimization on Wareshouse Automation](https://ras.papercept.net/conferences/conferences/IROS23/program/IROS23_ContentListWeb_1.html#moat16_10)" accepted at International Conference on Intelligent Robots and Systems ([IROS2023](https://ieee-iros.org/)).
 
 ## Features
 - Consists of four types of material handling equipment whose controller makes decisions for task selection (discrete actions for RL agents).
