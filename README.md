@@ -16,8 +16,8 @@ https://github.com/16444take/aope-sim/assets/140193531/597381b2-e481-40b3-8347-6
   - ILGR: Indepedent Learning with Globalized Reward
   - CDIC: CTDE (Centralized Training with Decentralized Execution) with Individual Critic
   - CDSC: CTDE with Shared Critic
-
-![marl_frameworks](https://github.com/16444take/aope-sim/assets/140193531/73df3a09-6009-42fc-8a22-f692c0fb104e)
+  
+![marl_frameworks](https://github.com/16444take/aope-sim/assets/140193531/7f020cfc-3192-409a-839d-2147a98f6ab8)
 
 - PPO (Proximal Policy Optimization) based actor critic methods
   - [IPPO](https://arxiv.org/abs/2011.09533) (Independent PPO) for ILLR and ILGR
